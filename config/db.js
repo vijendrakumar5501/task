@@ -1,4 +1,7 @@
 const mongoose=require('mongoose')
+require('dotenv')
+const uri=process.env.uri
+
 
 
 
